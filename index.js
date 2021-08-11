@@ -1,5 +1,5 @@
 module.exports = (ctx) => {
-    ctx.command('ba <type>')
+    ctx.command('ba <type>','从币安获取当前币价')
         .example('ba eth')
         .action(async (_, type) => {
             type = type.toUpperCase() + 'USDT'

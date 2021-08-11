@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-binance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "superagent",
   "main": "index.js",
   "repository": "https://github.com/Spacelessd/koishi-plugin-binance.git",
